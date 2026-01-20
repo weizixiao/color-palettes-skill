@@ -21,37 +21,194 @@ Fresh tropical for Duckcolor UI.
 
 ## Output Preview
 
-```
-#1 Tropical Pop - Fresh tropical for Duckcolor UI; using color-palette per request.
-primary    Lagoon Teal #1CB6A4
-secondary  Sunrise Sand #F2C56B
-accent     Coral Punch #FF6A5E
-background Cloud Foam #F9FBFA
-surface    Mist Glass #EEF5F2
-text       Ink Tide #1E2A2B
-muted      Sea Fog #8FA8A3
-border     Drift Line #D5E0DC
+Palette 1: Tropical Pop
 
-#2 Cream Studio - Creamy minimal with warm neutrals and gentle accents.
-primary    Espresso Slate #3E3A35
-secondary  Oat Linen #D9C9B7
-accent     Cinnamon Clay #C56A4A
-background Porcelain #FAF7F2
-surface    Soft Paper #F1ECE5
-text       Deep Roast #2B2520
-muted      Mellow Taupe #9A8F84
-border     Parchment Edge #E0D8CF
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Name</th>
+      <th>Hex</th>
+      <th>Swatch</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>primary</td>
+      <td>Lagoon Teal</td>
+      <td>#1CB6A4</td>
+      <td bgcolor="#1CB6A4">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>secondary</td>
+      <td>Sunrise Sand</td>
+      <td>#F2C56B</td>
+      <td bgcolor="#F2C56B">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>accent</td>
+      <td>Coral Punch</td>
+      <td>#FF6A5E</td>
+      <td bgcolor="#FF6A5E">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>background</td>
+      <td>Cloud Foam</td>
+      <td>#F9FBFA</td>
+      <td bgcolor="#F9FBFA">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>surface</td>
+      <td>Mist Glass</td>
+      <td>#EEF5F2</td>
+      <td bgcolor="#EEF5F2">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>text</td>
+      <td>Ink Tide</td>
+      <td>#1E2A2B</td>
+      <td bgcolor="#1E2A2B">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>muted</td>
+      <td>Sea Fog</td>
+      <td>#8FA8A3</td>
+      <td bgcolor="#8FA8A3">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>border</td>
+      <td>Drift Line</td>
+      <td>#D5E0DC</td>
+      <td bgcolor="#D5E0DC">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-#3 Playful Signal - Playful modern with bold primaries and clean neutrals.
-primary    Pixel Blue #3B6CFF
-secondary  Lime Kick #8BE04A
-accent     Magenta Pop #FF4FA3
-background Ice Violet #F7F8FF
-surface    Soft Pixel #EEF1FF
-text       Night Ink #1C1E2A
-muted      Clouded Steel #A0A6C0
-border     Light Frame #D5DBF2
-```
+Palette 2: Cream Studio
+
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Name</th>
+      <th>Hex</th>
+      <th>Swatch</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>primary</td>
+      <td>Espresso Slate</td>
+      <td>#3E3A35</td>
+      <td bgcolor="#3E3A35">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>secondary</td>
+      <td>Oat Linen</td>
+      <td>#D9C9B7</td>
+      <td bgcolor="#D9C9B7">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>accent</td>
+      <td>Cinnamon Clay</td>
+      <td>#C56A4A</td>
+      <td bgcolor="#C56A4A">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>background</td>
+      <td>Porcelain</td>
+      <td>#FAF7F2</td>
+      <td bgcolor="#FAF7F2">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>surface</td>
+      <td>Soft Paper</td>
+      <td>#F1ECE5</td>
+      <td bgcolor="#F1ECE5">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>text</td>
+      <td>Deep Roast</td>
+      <td>#2B2520</td>
+      <td bgcolor="#2B2520">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>muted</td>
+      <td>Mellow Taupe</td>
+      <td>#9A8F84</td>
+      <td bgcolor="#9A8F84">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>border</td>
+      <td>Parchment Edge</td>
+      <td>#E0D8CF</td>
+      <td bgcolor="#E0D8CF">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+Palette 3: Playful Signal
+
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Name</th>
+      <th>Hex</th>
+      <th>Swatch</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>primary</td>
+      <td>Pixel Blue</td>
+      <td>#3B6CFF</td>
+      <td bgcolor="#3B6CFF">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>secondary</td>
+      <td>Lime Kick</td>
+      <td>#8BE04A</td>
+      <td bgcolor="#8BE04A">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>accent</td>
+      <td>Magenta Pop</td>
+      <td>#FF4FA3</td>
+      <td bgcolor="#FF4FA3">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>background</td>
+      <td>Ice Violet</td>
+      <td>#F7F8FF</td>
+      <td bgcolor="#F7F8FF">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>surface</td>
+      <td>Soft Pixel</td>
+      <td>#EEF1FF</td>
+      <td bgcolor="#EEF1FF">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>text</td>
+      <td>Night Ink</td>
+      <td>#1C1E2A</td>
+      <td bgcolor="#1C1E2A">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>muted</td>
+      <td>Clouded Steel</td>
+      <td>#A0A6C0</td>
+      <td bgcolor="#A0A6C0">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>border</td>
+      <td>Light Frame</td>
+      <td>#D5DBF2</td>
+      <td bgcolor="#D5DBF2">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 Notes:
 
