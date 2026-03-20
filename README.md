@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This skill generates professional website color palettes from a short prompt. It is designed for UI palette tokens and provides a quick, visual console preview of the resulting colors. Visit https://duckcolor.com/ for the product context.
+This skill generates professional website color palettes from a short prompt. It is designed for UI palette tokens and provides a quick, visual console preview of the resulting colors. Visit [duckcolor](https://duckcolor.com) for the product context.
 
 ## Description
 
